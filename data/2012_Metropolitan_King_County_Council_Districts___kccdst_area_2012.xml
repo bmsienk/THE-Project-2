@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+    <idinfo>
+        <citation>
+            <citeinfo>
+                <origin/>
+                <pubdate>20220201</pubdate>
+                <title>2012 Metropolitan King County Council Districts / kccdst_area_2012</title>
+                <onlink>https://kingcounty.maps.arcgis.com/home/item.html?id=1228698905c04f7496aa71b82f0e8b12</onlink>
+                <onlink>https://kingcounty.maps.arcgis.com/home/item.html?id=a3193d0a9faa4e2bb0da92348356e91e</onlink>
+                <onlink>https://www5.kingcounty.gov/sdc/addl_doc/KCGISCenterTermsAndConditions.pdf</onlink>
+                <onlink>https://www5.kingcounty.gov/sdc/addl_doc/KCGISCenterHelpUsingKCOpenData.pdf</onlink>
+            </citeinfo>
+        </citation>
+        <descript>
+            <abstract>This data layer describes the 2012 King County Council Districts after the 2011 redistricting.</abstract>
+            <purpose>This data layer describes the 2012 King County Council Districts after the 2011 redistricting. It shows the districts exclusive of major water bodies and includes contact information for each of the 9 council members.</purpose>
+        </descript>
+        <keywords>
+            <theme>
+                <themekt>None</themekt>
+                <themekey>district_OpenData</themekey>
+                <themekey>kingcounty_opendata</themekey>
+                <themekey>metropolitan</themekey>
+                <themekey>KCC</themekey>
+                <themekey>King County Council</themekey>
+                <themekey>council member</themekey>
+                <themekey>county</themekey>
+                <themekey>district</themekey>
+                <themekey>election</themekey>
+                <themekey>redistricting</themekey>
+                <themekey>kccdst_area_2012</themekey>
+            </theme>
+        </keywords>
+        <accconst>Other Constraints</accconst>
+        <useconst>Use Constraint: King County data are made available with the 
+understanding that they shall be used exclusively by the obtainer or 
+his/her authorized agents. Digital products may not be reproduced or 
+redistributed in any form or by any means without the express written 
+authorization of King County.</useconst>
+        <ptcontac>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>King County Elections</cntorg>
+                    <cntper>Dave Wilson</cntper>
+                </cntorgp>
+                <cntpos>GIS Supervisor</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>919 SW Grady Way</address>
+                    <city>Renton</city>
+                    <state>WA</state>
+                    <postal>98057</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>206-477-4115</cntvoice>
+                <cntemail>dave.wilson@kingcounty.gov</cntemail>
+            </cntinfo>
+        </ptcontac>
+        <datacred>King County</datacred>
+    </idinfo>
+    <metainfo>
+        <metd>20220201</metd>
+        <metc>
+            <cntinfo>
+                <cntorgp>
+                    <cntorg>King County Elections</cntorg>
+                    <cntper>Dave Wilson</cntper>
+                </cntorgp>
+                <cntpos>GIS Supervisor</cntpos>
+                <cntaddr>
+                    <addrtype>mailing and physical</addrtype>
+                    <address>919 SW Grady Way</address>
+                    <city>Renton</city>
+                    <state>WA</state>
+                    <postal>98057</postal>
+                    <country>US</country>
+                </cntaddr>
+                <cntvoice>206-477-4115</cntvoice>
+                <cntemail>dave.wilson@kingcounty.gov</cntemail>
+            </cntinfo>
+        </metc>
+        <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+        <metstdv>FGDC-STD-001-1998</metstdv>
+        <mettc>local time</mettc>
+    </metainfo>
+</metadata>
