@@ -1,7 +1,7 @@
 # Section 1
 ###Overview
  
-Our presentation is geared towards a real estate firm interested in refurbishing and flipping residential properties in the Seattle metropolitan area. Using the King County Housing dataset, we performed exploratory data analysis and built linear regression models to gain insights about the relationships between a number of independent variables and our target variable, price. We then utilized visualization techniques to present our findings and convey the rationale behind our recommendations to the stakeholder. Finally, we discussed limitations and steps we could take in a follow up study that would provide additional value to our stakeholder.  
+Our presentation is geared towards a real estate firm interested in refurbishing and flipping residential properties in the Seattle metropolitan area. The problem we sough to address was how should the firm determine where to look for investment opportunities, and what actions could they take to increase the resale value of the home. Using the King County Housing dataset, we performed exploratory data analysis and built linear regression models to gain insights about the relationships between a number of independent variables and our target variable, price. We then utilized visualization techniques to present our findings and convey the rationale behind our recommendations to the stakeholder. Finally, we discussed limitations and steps we could take in a follow up study that would provide additional value to our stakeholder.  
 
 
 ###Business and Data Understanding
