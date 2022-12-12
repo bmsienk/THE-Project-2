@@ -1,4 +1,4 @@
-![Houses](images/houses.png)
+![Houses](images/houses.jpg)
 
 # Overview
  
@@ -40,19 +40,19 @@ Now that we have our models, we want to explore the features a bit more in order
 
 One significant feature was price category. To utilize this feature we found the average distance from properties in each category to Medina, as we found that distance from Medina had a strong relationship with price. Since we do not know our stakeholders specific budget, this gives them a rough idea of where properties within their budget may lie.
 
-![Average Distance to Medina for 3 Price Categories](price_cat.png)
+![Average Distance to Medina for 3 Price Categories](images/price_cats.png)
 
 Another important feature was the size of the house. In order to use this data effectively, we seperated the data into different categories to represent different house sizes. As can be seen below, increasing the size of the home has a positive impact on the price of the home. Therefore, making additions to the home is an important factor in increasing the price and, in turn, the resale value. 
 
-![Mean Price by House Size](sqft_cat_mean_price.png)
+![Mean Price by House Size](images/sqft_cat_mean_price.png)
 
 Now that we know additions to the home help to increase the price, we want to look at what renovations are the most significant. From our analysis and modelling, we found that bathrooms were the most impactful on price, followed by bedrooms, basements, patios, and floors. Given that adding a basement, garage, or extra floor are generally expensive projects and appear to be less impactful, it is clear that bathroom and bedroom additions should be first priority. 
 
-![Top Renovation Features](coef_reno_fets.png)
+![Top Renovation Features](images/coef_reno_fets.png)
 
 The final piece to relation renovations to increased home prices was the condition of the home. We found that the average price of properties did not go up much above an average condition. The largest jumps were from poor condition to fair condition and fair condition to average condition. While these two jumps are comparable, the most logical choice is to improve from fair to average as a poor condition home is categorized as having major structural and functional deficiencies, which would be expensive to repair. In order to bring a fair codityion home up to average condition only minor repairs and some refurbishing would be required. This would leave the largest margin for profit.
 
-![Average Price by Condition Rating](ang_price_cond.png)
+![Average Price by Condition Rating](images/ang_price_cond.png)
 
 ## Conclusion
 
